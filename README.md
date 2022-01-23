@@ -20,3 +20,10 @@ scrapy crawl corey -o crawled.json
 ```
 
 This will create a json file with the crawled information from the given webpage (it will crawl all the pages till the last one)
+
+
+Reference
+---
+[1] https://docs.scrapy.org/en/latest/intro/tutorial.html
+
+[2] https://www.youtube.com/watch?v=ALizgnSFTwQ
